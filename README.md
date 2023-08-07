@@ -9,9 +9,9 @@
 |1.4 |Verification without filling all the fields|
 |1.5 |Verification of input without filling the field password|
 
-|2. |  Personal Account Page Test Cases |
+|2. | Setup Your Profile Page Test Cases |
 |  :---   | ----------- |
-|3.1 |Change Main Information Test|
-|3.2 |Change the Password Test|
-|3.3. |Change My Address Test|
+|2.1 |Verifiication of setting up Date of Birth|
+|2.2 |Verifiication of setting up Units of Measurement|
+|2.3. |Verifiication of setting up Height|
 
