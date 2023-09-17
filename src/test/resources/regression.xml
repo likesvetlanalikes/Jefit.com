@@ -4,7 +4,7 @@
     <test name="запуск в chrome">
         <parameter name="browser" value="chrome"/>
         <classes>
-            <class name="tests.ProfileTest  "/>
+            <class name="tests.LoginTest  "/>
         </classes>
     </test> <!-- Test -->
 
