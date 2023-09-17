@@ -78,4 +78,3 @@ public class SettingsNotificationPrivacyPage extends BasePage {
 
 
 }
-
